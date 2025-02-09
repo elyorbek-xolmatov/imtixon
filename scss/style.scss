@@ -1,12 +1,7 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-}
-.navbar{
-    width: 100%;
-    height:54px;
-    border: 1px solid red;
-    display: flex;
-}
+@import "./style7.scss";
+@import "./style6.scss";
+@import "./style5.scss";
+@import "./style4.scss";
+@import "./style3.scss";
+@import "./style2.scss";
+@import "./card";
